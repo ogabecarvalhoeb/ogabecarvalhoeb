@@ -61,7 +61,7 @@
 <div align="center">
   
 *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*  
-**~ Robert Collier**
+~ Robert Collier
 
 </div>
 
