@@ -85,7 +85,7 @@ Sou um **Backend Developer** apaixonado por criar soluções robustas e escaláv
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=black&labelColor=white)](https://github.com/ogabecarvalhoeb)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white)]([https://www.linkedin.com/in/gabriel-bento-de-carvalho-a56a82361/]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white)](https://www.linkedin.com/in/gabriel-bento-de-carvalho-a56a82361/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white)](mailto:gabrieldecarvalhoeb@gmail.com)
 
 </div>
