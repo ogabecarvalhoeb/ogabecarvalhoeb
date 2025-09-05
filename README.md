@@ -4,6 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=6c7b7f&size=20&center=true&vCenter=true&width=600&lines=Backend+Developer;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
 </div>
 
+## 💡 Conhecimentos Técnicos
+
+**🔧 Core Skills:**
+- **Lógica de Programação** & **Boas Práticas**
+- **Terminal/Command Line** (Linux, Windows, macOS)
+- **Git** & **Controle de Versão**
+- **Arquitetura Cliente × Servidor**
+
+**⚡ Linguagens & Frameworks:**
+- **Python** → Flask, FastAPI
+- **Golang** → Performance & Concorrência
+- **Node.js** → Runtime JavaScript
+- **SQL** → PostgreSQL
+
+**🌐 Web & APIs:**
+- **REST APIs** & **Requisições HTTP**
+- **JSON** (Manipulação e Integração)
+- **Deploy**: Heroku, Railway
+
+**🎓 Certificações:**
+- **CS50** - Harvard University
+
 ---
 
 ## 🚀 Sobre Mim
@@ -63,8 +85,8 @@ Sou um **Backend Developer** apaixonado por criar soluções robustas e escaláv
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=black&labelColor=white)](https://github.com/ogabecarvalhoeb)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white)]([https://www.linkedin.com/in/gabriel-bento-de-carvalho-a56a82361/]
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white)](mailto:gabrieldecarvalhoeb@gmail.com)
 
 </div>
 
